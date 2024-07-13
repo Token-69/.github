@@ -1,0 +1,31 @@
+# TON Assets
+
+This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
+
+## Addresses
+
+Short list. Full in [accounts.json](accounts.json)
+
+Name           | Address
+---------------|-----------
+%s
+
+
+## NFT collections
+
+Name           | Address
+---------------|-----------
+%s
+
+
+## Jettons
+
+Name           | Address
+Token 69| 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
+%s
+
+
+## Structure
+
+Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
+`accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
